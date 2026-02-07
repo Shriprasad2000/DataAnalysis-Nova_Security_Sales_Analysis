@@ -3,6 +3,8 @@
 This project uses a **star schema** to separate transactional fact tables from descriptive dimensions.
 
 The model is optimized for filter propagation, performance, and scalability.
+
+![Dashboard1](/docs/power_bi_data_model.png)
  
 ---
  
