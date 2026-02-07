@@ -52,7 +52,6 @@ A significant portion of the analysis was completed **before Power BI**, directl
 - Demonstrates real-world, production-style BI workflows  
 
 ## 🧩 Data Modeling in Power BI
-
 Within Power BI, a structured **star-style data model** was implemented:
 
 - Fact tables connected to multiple dimensions
@@ -69,6 +68,20 @@ Within Power BI, a structured **star-style data model** was implemented:
 - Average Order Value (AOV)
 - Growth Metrics (YoY, MoM)
 - Customer & Product Contribution
+
+## 🧩 Data Model
+ 
+The dashboard is built on a star-schema–based data model designed for analytical performance and clarity.
+ 
+📸 **Power BI Data Model View:**  
+
+![Power BI Data Model](docs/power_bi_data_model.png)
+ 
+For detailed relationships, cardinality, and modeling decisions, see  
+
+👉 [`docs/data_model.md`](docs/data_model.md)
+
+ 
 
 ## 📈 Dashboard Pages Included
 
