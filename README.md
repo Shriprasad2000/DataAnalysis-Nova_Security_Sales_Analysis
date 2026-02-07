@@ -112,7 +112,7 @@ The Power BI dashboard consists of multiple analytical views:
 - Customer ownership
 - Brand-wise performance
 
-*📄 [All pages are included as a PDF export in this repository.](Nova%20Securiry%20Sales%20Analysis.pdf)*
+*📄 [All pages are included as a PDF export in this repository.](Nova_Securiry_Sales_Analysis_Dashboard.pdf)*
 
 
 ## 🚀 Tools & Technologies
